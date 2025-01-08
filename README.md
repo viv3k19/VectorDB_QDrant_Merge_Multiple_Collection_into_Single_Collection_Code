@@ -1,3 +1,3 @@
 ### Install Reqirements,
-### ADD your QDrant IP, Collection Names
+### ADD your QDrant IP, Existing Collection Names & Target Collection
 ### Enjoy...
